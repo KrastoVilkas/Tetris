@@ -1,0 +1,34 @@
+div {
+  background-color: darkslategrey;
+  width: 20px;
+  height: 20px;
+}
+
+.grid {
+  border: 0.5rem solid slategrey;
+  display: flex;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 200px;
+}
+
+.block {
+  background-color: mediumpurple;
+}
+
+.previewGrid{
+  border: 0.5rem solid slategrey;
+  display: flex;
+  flex-wrap: wrap;
+  height: 80px;
+  width: 80px;
+  margin-bottom: 3%;
+}
+
+.block2{
+  background-color: rebeccapurple;
+}
+
+.frozenBlock{
+  background-color: slategrey;
+}
